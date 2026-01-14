@@ -121,7 +121,81 @@ print('.............................while loop que..............................
 #         print('player2 won the game')
 
 
+print('.....................................................................................')
+# items=[1,2,3,4]
+# for i in range(len(items)):
+#     if items[i]%2!=0:
+#       print(items[i])
+    
+
+# items=[1,2,3,4]
+# i =0
+# while i in range(len(items)):
+#     if items[i]%2!=0:
+#       print(items[i])
+#     i+=1
+
+# items=[1,2,3,4]
+# i =0
+# while True:
+#     if i==4:
+#        break
+#     if items[i]%2!=0:
+#       print(items[i])
+#     i+=1
 
 
+print('.....................................................................................')
+
+# items=[1,'a','b',2,3,4]
+# str1=[]
+# id=[]
+# for i in range(len(items)):
+#     if isinstance(items[i],int):
+#         id.append(items[i])
+#     elif isinstance(items[i],str):
+#         str1.append(items[i])
+# print(id)
+# print(str1)
+
+
+
+# items=[1,'a','b',2,3,4]
+# i=0
+# str1=[]
+# id=[]
+# while i in range(len(items)):
+#     if isinstance(items[i],int):
+#         id.append(items[i])
+#     elif isinstance(items[i],str):
+#         str1.append(items[i])
+#         i=i+1
+# print(id)
+# print(str1)
+
+
+# items=[3,4]
+# for i in range(len(items)):
+#     for j in range(1,11):
+#         print(f'{items[i]}x{j}={items[i]*j}')
+
+# items=[3,4]
+# i=0
+# while i in range(len(items)):
+ 
+#       j=1
+#       while j in range(1,11):
+#              print(f'{items[i]}x{j}={items[i]*j}')
+#              j=j+1
+#       i=i+1     
+
+# que
+# sum=0
+# i=2
+# while i<5:
+#     i=i+1
+#     sum=sum-2
+#     print(i)
+# print(sum)    
 
 
